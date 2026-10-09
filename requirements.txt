@@ -1,0 +1,9 @@
+streamlit>=1.35.0
+pandas>=2.0.0
+fpdf2>=2.7.0
+st-gsheets-connection
+gspread
+google-auth
+Pillow
+google-genai>=0.1.0
+openpyxl
